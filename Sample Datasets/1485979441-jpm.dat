@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0" />
+<title dir="ltr">Nasdaq</title>
+<link rel="icon" href="/failcontent/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/failcontent/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon-precomposed" href="/failcontent/apple-touch-icon.png" />
+<style type="text/css">
+body {
+	background: #1a1a1a;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	margin:0;
+	padding:0
+}
+#container {
+	margin: 0 auto;
+	height: 667px;
+	width: 1000px;
+	background: url(/failcontent/Tower_image.jpg) no-repeat 0 0
+}
+#logo_header {
+	width: auto;
+	background: rgb(0, 0, 0);
+	padding: 15px 25px 15px 15px;
+	overflow: hidden
+}
+#logo_header .title-block__color {
+  border-color: rgb(0, 158, 194);
+  color: #ffffff;
+  position: relative;
+}
+#logo_header .title-block__inner {
+	padding: 0;
+}
+#logo_header .col-md-8 {
+text-align:right;
+}
+/*
+#logo_header span.triangle {
+	background: inherit;
+	border-color: inherit;
+	bottom: 0;
+	display: block;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	width: 0;
+}
+*/
+#logo_header span.triangle {
+	background: inherit;
+	border-color: inherit;
+	bottom: 0;
+	display: block;
+	position: absolute;
+	left: 0;
+	width: 0;
+	height: 50px;
+}
+/*
+#logo_header span.triangle:before {
+	border-right: 300px solid transparent;
+	border-top: 800px solid transparent;
+	border-top-color: inherit;
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	width: 235px;
+}
+*/
+#logo_header span.triangle:before {
+	border-right: 300px solid transparent;
+	border-top: 800px solid transparent;
+	border-top-color: inherit;
+	content: "";
+	display: block;
+	position: absolute;
+	top: -20px;
+	left: -15px;
+	width: 175px;
+}
+
+
+.title-block .title-block__inner {
+  padding: 0;
+}
+.title-block .col-md-8 {
+	width: 50%;
+}
+.title-block .title-block__color {
+  border-color: rgb(0, 158, 194);
+  border-color: rgba(0, 158, 194, 0.75);
+  color: #ffffff;
+  padding: 0 15px 20px;
+  position: relative;
+}
+h5 {
+  margin: 0;
+  padding: 17px 0;
+}
+.title-block .title-header {
+  font-size: 40px;
+}
+h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  line-height: 1.1
+}
+.title-block span.triangle {
+  background: inherit;
+  border-color: inherit;
+  bottom: 0;
+  display: block;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  width: 0;
+}
+.title-block span.triangle:before {
+  border-right: 300px solid transparent;
+  border-top: 800px solid transparent;
+  border-top-color: inherit;
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  width: 235px;
+}
+</style>
+</head>
+
+<body>
+
+
+
+
+<div id="container" style="position:relative;overflow:hidden">
+
+<div id="logo_header">
+	
+	
+<div class="title-block__inner col-md-8">
+	<div class="title-block__color">
+		<div style="position:relative;z-index:50">
+			<img src="/failcontent/Nasdaqlogo_homepage_tcm5044-15630.png" width="175" height="50" alt="logo" />
+		</div>
+		<span class="triangle"></span>
+	</div>
+</div>
+	
+	
+</div>
+
+<div id="title-block" class="main-section title-block col-md-12" style="height:250px;overflow:hidden;bottom:0;position:absolute">
+
+<div class="title-block__inner col-md-8">
+	<div class="title-block__color">
+		<div style="position:relative;z-index:50">
+			<h5 class="eyebrow">&nbsp;</h5>
+			<h1 class="title-header">Nasdaq Site Maintenance</h1>
+			<div class="title-block__text" style="font-size:18px">The website, Nasdaq.com, is currently under planned maintenance and should be back online soon. We apologize for the inconvenience to you.</div>
+			<div class="title-block__text" style="font-size:14px">Service - </div>
+		</div>
+		<span class="triangle"></span>
+	</div>
+</div>
+
+</div>
+
+
+</div>
+
+
+
+
+
+</body>
